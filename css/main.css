@@ -5,17 +5,14 @@ body {
     font-weight: 700;
     line-height: 1.4;
     font-size: 7rem;
-    font-family:'Courier New', Courier, monospace
+    font-family: 'Anton', sans-serif;
+    font-family: 'Playfair Display', serif;
     width: 100%;
     align-items: center;
     justify-content: center;
     height: 100vh;    
     display: flex;
     margin-top: 0;
-}
-
-p {
-    text-emphasis-color: red;
 }
 
 
