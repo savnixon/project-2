@@ -6,11 +6,19 @@ body {
     line-height: 1.4;
     font-size: 7rem;
     font-family:'Courier New', Courier, monospace
+    height: 100vh;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
     
        
 }
 p {
     text-emphasis-color: red;
+}
+fart-intro-paragraph {
+    height: 100vh;
 }
 
 fart-intro-paragraph-fuck {
@@ -18,8 +26,11 @@ fart-intro-paragraph-fuck {
     text-transform: uppercase;
     color: rgb(81, 2, 2);
     font-size: 80px;
-    margin-top: ;
+    margin-top: 0;
     height: 100vh;
-
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
 }
 
